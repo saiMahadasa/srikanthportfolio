@@ -1,0 +1,16 @@
+
+.bullet-list1{
+    letter-spacing: 2px;
+    color:  #095F80 !important;
+    font-weight: 500;
+    line-height: 39px;
+    margin-left: 15px;
+    text-align: left;
+    font-family: system-ui;
+}
+.flexprofile{
+    display: flex;
+}
+ul#flexx{
+    display: flex;
+}

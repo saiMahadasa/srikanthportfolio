@@ -1,0 +1,71 @@
+.aboutsec{
+    margin-top: 3%;
+}
+.aboutmehead{
+    font-size: 2rem;
+    color: #095F80;
+    font-weight: 700;
+    margin-bottom: 5%;
+}
+.aboutrow{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.job-desc{
+   
+    padding: 3rem;
+    font-weight: 600;
+    font-size: 1rem;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 29px;
+}
+.highlights{
+    margin-left: 2rem;
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: 700;
+
+}
+.bullet-list{
+    letter-spacing: 2px;
+    color:  #212529 !important;
+    font-weight: 500;
+    line-height: 39px;
+    margin-left: 2.1rem;
+    text-align: left;
+    font-family: system-ui;
+}
+.myinfo{
+    height: 426px;
+    background-color:  #212529 !important ;
+}
+.careerobj{
+    
+    letter-spacing: 2px;
+    font-size: 1.5rem;
+    color: #095F80;
+    font-weight: 600;
+    padding-top: 5PX;
+}
+.myobj{
+    /* margin-top: 1%; */
+    bottom: 11px;
+    position: relative;
+    color: white;
+    padding: 5PX;
+    font-size: 1rem;
+    line-height: 25PX;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    
+}
+.sidebarimg{
+    border-radius: 15px;
+    margin-top: 1%;
+    opacity: 0.6;
+}
+@media(max-width : 600px) {
+    .bullet-list{
+        margin-left: 1.1rem !important;
+    }
+}

@@ -1,0 +1,12 @@
+/* MyStepper.css */
+.custom-stepper .react-stepper-horizontal {
+  background-color: #212529; /* Set the inactive background color */
+}
+
+.custom-stepper .react-stepper-horizontal .react-stepper-horizontal-bar {
+  background-color: #212529; /* Set the inactive bar color */
+}
+
+.custom-stepper .react-stepper-horizontal .react-stepper-horizontal-step {
+  color: #212529; /* Set the inactive title color */
+}
